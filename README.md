@@ -13,3 +13,11 @@ Some of the projects you’ll find here:
 - 📚 To-Do List App
 
 - 📝 Text-Based Games
+
+- 👥 Contact Book
+
+# 🛠️ Tech Stack
+
+Language: Python 🐍
+
+Libraries: (depends on project – e.g., `random`, `math`, `tkinter`, etc.)
